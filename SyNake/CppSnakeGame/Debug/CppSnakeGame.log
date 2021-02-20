@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\SeungYup26\source\repos\CppSnakeGame\CppSnakeGame\Source\Main.cpp(48,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\SeungYup26\source\repos\CppSnakeGame\CppSnakeGame\Source\Main.cpp(48,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  CppSnakeGame.vcxproj -> C:\Users\SeungYup26\source\repos\CppSnakeGame\Debug\CppSnakeGame.exe
